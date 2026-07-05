@@ -1,5 +1,5 @@
-# 📚 Simulador de Questões para Concursos (Powered by IA)
-**Versões Disponíveis:** Carreiras Bancárias (BB/Caixa) e Polícia Científica (Perito Criminal).
+# 📚 Simulador de Questões para Concursos (Powered by Leoppardo)
+**Versão Disponível:** Polícia Científica (Perito Criminal PCPB e PCPE).
 
 Este é um aplicativo desktop (MVP) desenvolvido para gerar questões inéditas e comentadas para concursos públicos, utilizando Inteligência Artificial. Em vez de depender de bancos de questões desatualizados, o aplicativo atua como um examinador sênior, criando cenários práticos e desafiadores baseados nos editais mais recentes.
 
@@ -9,12 +9,12 @@ Desenvolvido por **Leonardo Aguiar**.
 
 ## 🚀 Como Instalar e Rodar o Aplicativo
 
-Você **não** precisa ter programação ou Python instalado no seu computador. O aplicativo já vem empacotado e pronto para uso no Windows.
+Você **não** precisa saber programação ou ter Python instalado no seu computador. O aplicativo já vem empacotado e pronto para uso no Windows.
 
 1. Baixe o arquivo `.zip` mais recente na aba [Releases](#) (Substitua pelo seu link).
 2. Clique com o botão direito no arquivo baixado e selecione **"Extrair Tudo..."**.
 3. Abra a pasta extraída e dê um duplo clique no arquivo executável (`.exe`).
-4. **⚠️ Aviso sobre Antivírus:** Como este é um software independente e protegido (ofuscado para segurança do código), o Windows Defender ou seu antivírus pode exibir um alerta de "Software Desconhecido" na primeira execução. Isso é um falso positivo comum. Basta clicar em **"Mais informações"** e depois em **"Executar assim mesmo"**.
+4. **⚠️ Aviso sobre Antivírus:** Como este é um software independente e protegido (ofuscado para segurança do código), o Windows Defender ou seu antivírus podem exibir um alerta de "Software Desconhecido" na primeira execução. Isso é um falso positivo comum. Basta clicar em **"Mais informações"** e depois em **"Executar assim mesmo"**.
 
 ---
 
